@@ -11,11 +11,11 @@ I understand how challenging it can be to work through these problems and I hope
 ## Completion Summary
 
 | Difficulty             | Solved Problems |
-|------------------------|-----------------|
-| :green_circle: Easy    | 0/618           |
-| :yellow_circle: Medium | 0/1344          |
-| :red_circle: Hard      | 10/562          |
-| :white_circle: All     | 0/2524          |
+|------------------------|:---------------:|
+| :green_circle: Easy    |      0/618      |
+| :yellow_circle: Medium |     0/1344      |
+| :red_circle: Hard      |     10/562      |
+| :white_circle: All     |     0/2524      |
 
 ## Repository Structure
 
