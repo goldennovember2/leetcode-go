@@ -14,8 +14,8 @@ I understand how challenging it can be to work through these problems and I hope
 |------------------------|:---------------:|
 | :green_circle: Easy    |      0/618      |
 | :yellow_circle: Medium |     0/1344      |
-| :red_circle: Hard      |     10/562      |
-| :white_circle: All     |     0/2524      |
+| :red_circle: Hard      |      0/562      |
+| :blue_circle: All      |     0/2524      |
 
 ## Repository Structure
 
