@@ -12,10 +12,10 @@ I understand how challenging it can be to work through these problems and I hope
 
 | Difficulty             | Solved Problems |  Solutions   |
 |------------------------|:---------------:|:------------:|
-| :green_circle: Easy    |       10        |  [Go](easy)  |
+| :green_circle: Easy    |       12        |  [Go](easy)  |
 | :yellow_circle: Medium |        0        | [Go](medium) |
 | :red_circle: Hard      |        0        |  [Go](hard)  |
-| :white_circle: All     |       10        |   [Go](/)    |
+| :white_circle: All     |       12        |   [Go](/)    |
 
 ## Repository Structure
 
