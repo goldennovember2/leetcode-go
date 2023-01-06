@@ -20,7 +20,7 @@ func Test_containsDuplicate(t *testing.T) {
 
 	ast := assert.New(t)
 
-	fmt.Printf("------------------------Leetcode Problem 217. Contains Duplicate------------------------\n")
+	fmt.Printf("------------------------Leetcode Problem 1480. Running Sum of 1d Array------------------------\n")
 
 	for _, tc := range tcs {
 		fmt.Printf("【Input】: nums = %v\n【Output】: %v \n", tc.nums, runningSum(tc.nums))
