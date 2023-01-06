@@ -26,7 +26,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 │   ├── word-pattern/                       
 │   │   ├── word-pattern.go                 // Solution
 │   │   ├── word-pattern_test.go            // Tests
-│   │   └── README.md                       // Problem description
+│   │   └── README.md                       // Description
 │   │
 │   ├── contains-duplicate/
 │   │   ├── contains-duplicate.go
