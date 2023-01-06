@@ -17,3 +17,7 @@ Output: "1[.]1[.]1[.]1"
 Input: address = "255.100.50.0"
 Output: "255[.]100[.]50[.]0"
 ```
+
+
+**Constraints:**
+* The given `address` is a valid IPv4 address.
