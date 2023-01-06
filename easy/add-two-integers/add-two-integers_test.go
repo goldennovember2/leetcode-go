@@ -16,7 +16,7 @@ var tcs = []struct {
 	{-10, 4, -6},
 }
 
-func Test_containsDuplicate(t *testing.T) {
+func Test_sum(t *testing.T) {
 
 	ast := assert.New(t)
 
@@ -29,7 +29,7 @@ func Test_containsDuplicate(t *testing.T) {
 	fmt.Printf("\n\n\n")
 }
 
-func Benchmark_containsDuplicate(b *testing.B) {
+func Benchmark_sum(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, tc := range tcs {
 			sum(tc.num1, tc.num2)

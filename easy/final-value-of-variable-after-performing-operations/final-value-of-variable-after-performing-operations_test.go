@@ -26,7 +26,7 @@ var tcs = []struct {
 	},
 }
 
-func Test_defangIPaddr(t *testing.T) {
+func Test_finalValueAfterOperations(t *testing.T) {
 	ast := assert.New(t)
 
 	fmt.Printf("------------------------2011. Final Value of Variable After Performing Operations------------------------\n")
@@ -38,7 +38,7 @@ func Test_defangIPaddr(t *testing.T) {
 	fmt.Printf("\n\n\n")
 }
 
-func Benchmark_defangIPaddr(b *testing.B) {
+func Benchmark_finalValueAfterOperations(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, tc := range tcs {
 			finalValueAfterOperations(tc.operations)
