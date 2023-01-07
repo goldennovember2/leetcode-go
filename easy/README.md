@@ -4,6 +4,7 @@
 |:----:|:----------------------------------------------------|:---------------------------------------------------------:|:----------:|:--------------------------------------:|
 | 0001 | Two Sum                                             |                       [Go](two-sum)                       |   49.2%    |          `Array` `Hash Table`          |
 | 0009 | Palindrome Number                                   |                  [Go](palindrome-number)                  |   53.1%    |                 `Math`                 |
+| 0013 | Roman to Integer                                    |                  [Go](roman-to-integer)                   |   58.2%    |      `Hash Table` `Math` `String`      |
 | 0217 | Contains Duplicate                                  |                 [Go](contains-duplicate)                  |   61.4%    |     `Array` `Hash Table` `Sorting`     |
 | 0290 | Word Pattern                                        |                    [Go](word-pattern)                     |   41.7%    |         `Hash Table` `String`          |
 | 1108 | Defanging an IP Address                             |               [Go](defanging-an-ip-address)               |   89.3%    |                `String`                |
