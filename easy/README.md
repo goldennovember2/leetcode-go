@@ -6,6 +6,7 @@
 | 0009 | Palindrome Number                                   |                  [Go](palindrome-number)                  |   53.1%    |                 `Math`                 |
 | 0013 | Roman to Integer                                    |                  [Go](roman-to-integer)                   |   58.2%    |      `Hash Table` `Math` `String`      |
 | 0217 | Contains Duplicate                                  |                 [Go](contains-duplicate)                  |   61.4%    |     `Array` `Hash Table` `Sorting`     |
+| 0242 | Valid Anagram                                       |                    [Go](valid-anagram)                    |   62.9%    |    `Hash Table` `String` `Sorting`     |
 | 0290 | Word Pattern                                        |                    [Go](word-pattern)                     |   41.7%    |         `Hash Table` `String`          |
 | 1108 | Defanging an IP Address                             |               [Go](defanging-an-ip-address)               |   89.3%    |                `String`                |
 | 1470 | Shuffle the Array                                   |                  [Go](shuffle-the-array)                  |   88.5%    |                `Array`                 |
