@@ -54,7 +54,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 0001 | Two Sum                                              |                       [Go](easy/two-sum)                        |   49.2%    |    Easy    |          `Array` `Hash Table`           |
 | 0009 | Palindrome Number                                    |                  [Go](easy/palindrome-number)                   |   53.1%    |    Easy    |                 `Math`                  |
 | 0013 | Roman to Integer                                     |                   [Go](easy/roman-to-integer)                   |   58.2%    |    Easy    |      `Hash Table` `Math` `String`       |
-| 0049 | Group Anagrams                                       |              [Go](medium/group-anagrams/README.md)              |   66.6%    |   Medium   | `Array` `Hash Table` `String` `Sorting` |
+| 0049 | Group Anagrams                                       |                   [Go](medium/group-anagrams)                   |   66.6%    |   Medium   | `Array` `Hash Table` `String` `Sorting` |
 | 0217 | Contains Duplicate                                   |                  [Go](easy/contains-duplicate)                  |   61.4%    |    Easy    |     `Array` `Hash Table` `Sorting`      |
 | 0242 | Valid Anagram                                        |                    [Go](easy/valid-anagram)                     |   62.9%    |    Easy    |     `Hash Table` `String` `Sorting`     |
 | 0290 | Word Pattern                                         |                     [Go](easy/word-pattern)                     |   41.7%    |    Easy    |          `Hash Table` `String`          |
