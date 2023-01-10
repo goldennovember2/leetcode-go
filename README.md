@@ -12,10 +12,10 @@ I understand how challenging it can be to work through these problems and I hope
 
 | Difficulty             | Solved Problems |
 |------------------------|:---------------:|
-| :green_circle: Easy    |       20        |
+| :green_circle: Easy    |       21        |
 | :yellow_circle: Medium |        1        |
 | :red_circle: Hard      |        0        |
-| :white_circle: Total   |       20        |
+| :white_circle: Total   |       22        |
 
 ## Repository Structure
 
@@ -58,6 +58,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 0217 | Contains Duplicate                                   |                  [Go](easy/contains-duplicate)                  |   61.4%    |    Easy    |     `Array` `Hash Table` `Sorting`      |
 | 0242 | Valid Anagram                                        |                    [Go](easy/valid-anagram)                     |   62.9%    |    Easy    |     `Hash Table` `String` `Sorting`     |
 | 0290 | Word Pattern                                         |                     [Go](easy/word-pattern)                     |   41.7%    |    Easy    |          `Hash Table` `String`          |
+| 0771 | Jewels and Stones                                    |                  [Go](easy/jewels-and-stones)                   |   88.1%    |    Easy    |          `Hash Table` `String`          |
 | 1108 | Defanging an IP Address                              |               [Go](easy/defanging-an-ip-address)                |   89.3%    |    Easy    |                `String`                 |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | [Go](easy/subtract-the-product-and-sum-of-digits-of-an-integer) |   86.7%    |    Easy    |                 `Math`                  |
 | 1431 | Kids With the Greatest Number of Candies             |       [Go](easy/kids-with-the-greatest-number-of-candies)       |   87.4%    |    Easy    |                 `Array`                 |
