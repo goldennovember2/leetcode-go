@@ -10,12 +10,12 @@ I understand how challenging it can be to work through these problems and I hope
 
 ## Completion Summary
 
-| Difficulty             | Solved Problems |  Solutions   |
-|------------------------|:---------------:|:------------:|
-| :green_circle: Easy    |       20        |  [Go](easy)  |
-| :yellow_circle: Medium |        0        | [Go](medium) |
-| :red_circle: Hard      |        0        |  [Go](hard)  |
-| :white_circle: All     |       20        |   [Go](/)    |
+| Difficulty             | Solved Problems |
+|------------------------|:---------------:|
+| :green_circle: Easy    |       20        |
+| :yellow_circle: Medium |        0        |
+| :red_circle: Hard      |        0        |
+| :white_circle: Total   |       20        |
 
 ## Repository Structure
 
@@ -32,10 +32,8 @@ I also add the test cases that I failed during my submissions, which is not incl
 │   │   ├── contains-duplicate.go
 │   │   ├── contains-duplicate_test.go
 │   │   └── README.md
-│   ├── ...
-│   │
-│   └── README.md                           // Easy problems list
-│
+│   └── ...
+│   
 ├── medium/
 │   ├── 8kyu/
 │   │   ├── quarter-of-the-year.sql
@@ -49,6 +47,34 @@ I also add the test cases that I failed during my submissions, which is not incl
 └── README.md                               
 ```
 
-# Resources
+## Solutions
+
+
+| No.  | Title                                                |                            Solution                             | Acceptance | Difficulty |                  Tags                  |
+|:----:|:-----------------------------------------------------|:---------------------------------------------------------------:|:----------:|:----------:|:--------------------------------------:|
+| 0001 | Two Sum                                              |                       [Go](easy/two-sum)                        |   49.2%    |    Easy    |          `Array` `Hash Table`          |
+| 0009 | Palindrome Number                                    |                  [Go](easy/palindrome-number)                   |   53.1%    |    Easy    |                 `Math`                 |
+| 0013 | Roman to Integer                                     |                   [Go](easy/roman-to-integer)                   |   58.2%    |    Easy    |      `Hash Table` `Math` `String`      |
+| 0217 | Contains Duplicate                                   |                  [Go](easy/contains-duplicate)                  |   61.4%    |    Easy    |     `Array` `Hash Table` `Sorting`     |
+| 0242 | Valid Anagram                                        |                    [Go](easy/valid-anagram)                     |   62.9%    |    Easy    |    `Hash Table` `String` `Sorting`     |
+| 0290 | Word Pattern                                         |                     [Go](easy/word-pattern)                     |   41.7%    |    Easy    |         `Hash Table` `String`          |
+| 1108 | Defanging an IP Address                              |               [Go](easy/defanging-an-ip-address)                |   89.3%    |    Easy    |                `String`                |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | [Go](easy/subtract-the-product-and-sum-of-digits-of-an-integer) |   86.7%    |    Easy    |                 `Math`                 |
+| 1431 | Kids With the Greatest Number of Candies             |       [Go](easy/kids-with-the-greatest-number-of-candies)       |   87.4%    |    Easy    |                `Array`                 |
+| 1470 | Shuffle the Array                                    |                  [Go](easy/shuffle-the-array)                   |   88.5%    |    Easy    |                `Array`                 |
+| 1480 | Running Sum of 1d Array                              |               [Go](easy/running-sum-of-1d-array)                |   88.7%    |    Easy    |          `Array` `Prefix Sum`          |
+| 1512 | Number of Good Pairs                                 |                 [Go](easy/number-of-good-pairs)                 |   88.2%    |    Easy    | `Array` `Hash Table` `Math` `Counting` |
+| 1672 | Richest Customer Wealth                              |               [Go](easy/richest-customer-wealth)                |   88.1%    |    Easy    |            `Array` `Matrix`            |
+| 1920 | Build Array from Permutation                         |             [Go](easy/build-array-from-permutation)             |   91.0%    |    Easy    |          `Array` `Simulation`          |
+| 1929 | Concatenation of Array                               |                [Go](easy/concatenation-of-array)                |   90.9%    |    Easy    |                `Array`                 |
+| 2011 | Final Value of Variable After Performing Operations  | [Go](easy/final-value-of-variable-after-performing-operations)  |   88.8%    |    Easy    |     `Array` `String` `Simulation`      |
+| 2114 | Maximum Number of Words Found in Sentences           |      [Go](easy/maximum-number-of-words-found-in-sentences)      |   87.8%    |    Easy    |            `Array` `String`            |
+| 2235 | Add Two Integers                                     |                   [Go](easy/add-two-integers)                   |   89.2%    |    Easy    |                 `Math`                 |
+| 2413 | Smallest Even Multiple                               |                [Go](easy/smallest-even-multiple)                |   87.6%    |    Easy    |         `Math` `Number Theory`         |
+| 2469 | Convert the Temperature                              |               [Go](easy/convert-the-temperature)                |   89.8%    |    Easy    |                 `Math`                 |
+
+
+
+## Resources
 
 https://leetcode.com/
