@@ -15,7 +15,7 @@ I understand how challenging it can be to work through these problems and I hope
 | :green_circle: Easy    |       21        |
 | :yellow_circle: Medium |        1        |
 | :red_circle: Hard      |        0        |
-| :white_circle: Total   |       22        |
+| :black_circle: Total   |       22        |
 
 ## Repository Structure
 
