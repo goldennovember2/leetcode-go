@@ -12,10 +12,10 @@ I understand how challenging it can be to work through these problems and I hope
 
 | Difficulty             | Solved Problems |
 |------------------------|:---------------:|
-| :green_circle: Easy    |       21        |
-| :yellow_circle: Medium |        1        |
+| :green_circle: Easy    |       24        |
+| :yellow_circle: Medium |        2        |
 | :red_circle: Hard      |        0        |
-| :black_circle: Total   |       22        |
+| :black_circle: Total   |       26        |
 
 ## Repository Structure
 
@@ -59,6 +59,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 0242 | Valid Anagram                                        |                    [Go](easy/valid-anagram)                     |   62.9%    |    Easy    |                `Hash Table` `String` `Sorting`                |
 | 0290 | Word Pattern                                         |                     [Go](easy/word-pattern)                     |   41.7%    |    Easy    |                     `Hash Table` `String`                     |
 | 0349 | Intersection of Two Arrays                           |              [Go](easy/intersection-of-two-arrays)              |   70.6%    |    Easy    | `Array` `Hash Table` `Two Pointers` `Binary Search` `Sorting` |
+| 0442 | Find All Duplicates in an Array                      |          [Go](medium/find-all-duplicates-in-an-array)           |   73.4%    |    Easy    |                     `Array` `Hash Table`                      |
 | 0771 | Jewels and Stones                                    |                  [Go](easy/jewels-and-stones)                   |   88.1%    |    Easy    |                     `Hash Table` `String`                     |
 | 1108 | Defanging an IP Address                              |               [Go](easy/defanging-an-ip-address)                |   89.3%    |    Easy    |                           `String`                            |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | [Go](easy/subtract-the-product-and-sum-of-digits-of-an-integer) |   86.7%    |    Easy    |                            `Math`                             |
