@@ -27,4 +27,4 @@ Explanation: After shuffling, each character remains in its position.
 * `1 <= n <= 100`
 * `s` consists of only lower-case English letters.
 * `0 <= indices[i] < n`
-* All values of `indices` are unique.
+* All values of `indices` are **unique**.
