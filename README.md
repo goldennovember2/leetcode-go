@@ -12,10 +12,10 @@ I understand how challenging it can be to work through these problems and I hope
 
 | Difficulty             | Solved Problems |
 |------------------------|:---------------:|
-| :green_circle: Easy    |       32        |
-| :yellow_circle: Medium |        4        |
+| :green_circle: Easy    |       33        |
+| :yellow_circle: Medium |        5        |
 | :red_circle: Hard      |        0        |
-| :black_circle: Total   |       36        |
+| :black_circle: Total   |       38        |
 
 ## Repository Structure
 
@@ -53,6 +53,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 |:----:|:-------------------------------------------------------|:----------------------------------------------------------------------:|:----------:|:----------:|:-------------------------------------------------------------:|
 | 0001 | Two Sum                                                |                           [Go](easy/two-sum)                           |   49.2%    |    Easy    |                     `Array` `Hash Table`                      |
 | 0009 | Palindrome Number                                      |                      [Go](easy/palindrome-number)                      |   53.1%    |    Easy    |                            `Math`                             |
+| 0012 | Integer to Roman                                       |                     [Go](medium/integer-to-roman)                      |   61.7%    |   Medium   |                 `Hash Table` `Math` `String`                  |
 | 0013 | Roman to Integer                                       |                      [Go](easy/roman-to-integer)                       |   58.2%    |    Easy    |                 `Hash Table` `Math` `String`                  |
 | 0049 | Group Anagrams                                         |                      [Go](medium/group-anagrams)                       |   66.6%    |   Medium   |            `Array` `Hash Table` `String` `Sorting`            |
 | 0217 | Contains Duplicate                                     |                     [Go](easy/contains-duplicate)                      |   61.4%    |    Easy    |                `Array` `Hash Table` `Sorting`                 |
@@ -69,6 +70,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 1431 | Kids With the Greatest Number of Candies               |          [Go](easy/kids-with-the-greatest-number-of-candies)           |   87.4%    |    Easy    |                            `Array`                            |
 | 1470 | Shuffle the Array                                      |                      [Go](easy/shuffle-the-array)                      |   88.5%    |    Easy    |                            `Array`                            |
 | 1480 | Running Sum of 1d Array                                |                   [Go](easy/running-sum-of-1d-array)                   |   88.7%    |    Easy    |                     `Array` `Prefix Sum`                      |
+| 1484 | Group Sold Products By The Date                        |            [SQL](database/group-sold-products-by-the-date)             |   81.8%    |    Easy    |                          `Database`                           |
 | 1512 | Number of Good Pairs                                   |                    [Go](easy/number-of-good-pairs)                     |   88.2%    |    Easy    |            `Array` `Hash Table` `Math` `Counting`             |
 | 1528 | Shuffle String                                         |                       [Go](easy/shuffle-string)                        |   85.5%    |    Easy    |                       `Array` `String`                        |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | [SQL](database/customer-who-visited-but-did-not-make-any-transactions) |   86.8%    |    Easy    |                          `Database`                           |
