@@ -1,5 +1,7 @@
 # Go solutions to LeetCode problems
 
+[My LeetCode profile](https://leetcode.com/goldennovember/)
+
 The purpose of this repository is to serve as a portfolio of my work and to provide a resource for others seeking clear and easy-to-understand solutions to these problems. Every day starting January 5, 2023, I will be adding my solutions to this repository.
 
 > <p style = "color:red"><strong>Please note that:</strong> my solutions are not necessarily optimized for efficiency in terms of time complexity or memory consumption. Instead, my focus is on providing solutions that are clear, follow best practices, and are easy for others to understand and learn from.</p>
