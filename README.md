@@ -12,10 +12,10 @@ I understand how challenging it can be to work through these problems and I hope
 
 | Difficulty             | Solved Problems |
 |------------------------|:---------------:|
-| :green_circle: Easy    |       27        |
-| :yellow_circle: Medium |        3        |
+| :green_circle: Easy    |       31        |
+| :yellow_circle: Medium |        4        |
 | :red_circle: Hard      |        0        |
-| :black_circle: Total   |       30        |
+| :black_circle: Total   |       35        |
 
 ## Repository Structure
 
@@ -65,14 +65,19 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 1281 | Subtract the Product and Sum of Digits of an Integer   |  [Go](easy/subtract-the-product-and-sum-of-digits-of-an-integer)   |   86.7%    |    Easy    |                            `Math`                             |
 | 1282 | Group the People Given the Group Size They Belong To   | [Go](medium/group-the-people-given-the-group-size-they-belong-to)  |   85.7%    |   Medium   |                     `Array` `Hash Table`                      |
 | 1365 | How Many Numbers Are Smaller Than the Current Number   |  [Go](easy/how-many-numbers-are-smaller-than-the-current-number)   |   86.7%    |    Easy    |           `Array` `Hash Table` `Sorting` `Counting`           |
+| 1393 | Capital Gain/Loss                                      |                 [SQL](database/capital-gain-loss)                  |   89.7%    |   Medium   |                          `Database`                           |
 | 1431 | Kids With the Greatest Number of Candies               |        [Go](easy/kids-with-the-greatest-number-of-candies)         |   87.4%    |    Easy    |                            `Array`                            |
 | 1470 | Shuffle the Array                                      |                    [Go](easy/shuffle-the-array)                    |   88.5%    |    Easy    |                            `Array`                            |
 | 1480 | Running Sum of 1d Array                                |                 [Go](easy/running-sum-of-1d-array)                 |   88.7%    |    Easy    |                     `Array` `Prefix Sum`                      |
 | 1512 | Number of Good Pairs                                   |                  [Go](easy/number-of-good-pairs)                   |   88.2%    |    Easy    |            `Array` `Hash Table` `Math` `Counting`             |
 | 1528 | Shuffle String                                         |                     [Go](easy/shuffle-string)                      |   85.5%    |    Easy    |                       `Array` `String`                        |
+| 1587 | Bank Account Summary II                                |              [SQL](database/back-account-summary-ii)               |   88.2%    |    Easy    |                          `Database`                           |
 | 1672 | Richest Customer Wealth                                |                 [Go](easy/richest-customer-wealth)                 |   88.1%    |    Easy    |                       `Array` `Matrix`                        |
+| 1693 | Daily Leads and Partners                               |              [SQL](database/daily-leads-and-partners)              |   89.3%    |    Easy    |                          `Database`                           |
 | 1920 | Build Array from Permutation                           |              [Go](easy/build-array-from-permutation)               |   91.0%    |    Easy    |                     `Array` `Simulation`                      |
+| 1741 | Find Total Time Spent by Each Employee                 |       [SQL](database/find-total-time-spent-by-each-employee)       |   90.8%    |    Easy    |                          `Database`                           |
 | 1757 | Recyclable and Low Fat Products                        |          [SQL](database/recyclable-and-low-fat-products)           |   93.2%    |    Easy    |                          `Database`                           |
+| 1795 | Rearrange Products Table                               |              [SQL](database/rearrange-products-table)              |   88.1%    |    Easy    |                          `Database`                           |
 | 1929 | Concatenation of Array                                 |                 [Go](easy/concatenation-of-array)                  |   90.9%    |    Easy    |                            `Array`                            |
 | 2011 | Final Value of Variable After Performing Operations    |   [Go](easy/final-value-of-variable-after-performing-operations)   |   88.8%    |    Easy    |                 `Array` `String` `Simulation`                 |
 | 2032 | Two Out of Three                                       |                    [Go](easy/two-out-of-three)                     |   73.0%    |    Easy    |                     `Array` `Hash Table`                      |
