@@ -16,8 +16,8 @@ I understand how challenging it can be to work through these problems and I hope
 |------------------------|:---------------:|
 | :green_circle: Easy    |       33        |
 | :yellow_circle: Medium |        5        |
-| :red_circle: Hard      |        0        |
-| :black_circle: Total   |       38        |
+| :red_circle: Hard      |        1        |
+| :black_circle: Total   |       39        |
 
 ## Repository Structure
 
@@ -57,6 +57,7 @@ I also add the test cases that I failed during my submissions, which is not incl
 | 0009 | Palindrome Number                                      |                      [Go](easy/palindrome-number)                      |   53.1%    |    Easy    |                            `Math`                             |
 | 0012 | Integer to Roman                                       |                     [Go](medium/integer-to-roman)                      |   61.7%    |   Medium   |                 `Hash Table` `Math` `String`                  |
 | 0013 | Roman to Integer                                       |                      [Go](easy/roman-to-integer)                       |   58.2%    |    Easy    |                 `Hash Table` `Math` `String`                  |
+| 0041 | First Missing Positive                                 |                   [Go](hard/first-missing-positive)                    |   36.6%    |    Hard    |                     `Array` `Hash Table`                      |
 | 0049 | Group Anagrams                                         |                      [Go](medium/group-anagrams)                       |   66.6%    |   Medium   |            `Array` `Hash Table` `String` `Sorting`            |
 | 0217 | Contains Duplicate                                     |                     [Go](easy/contains-duplicate)                      |   61.4%    |    Easy    |                `Array` `Hash Table` `Sorting`                 |
 | 0242 | Valid Anagram                                          |                        [Go](easy/valid-anagram)                        |   62.9%    |    Easy    |                `Hash Table` `String` `Sorting`                |
